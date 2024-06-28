@@ -1,6 +1,6 @@
 {
-    "name": "prak9",
-    "short_name": "prak9",
+    "name": "gtk_flutter",
+    "short_name": "gtk_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
